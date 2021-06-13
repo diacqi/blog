@@ -7,7 +7,7 @@ tags: ["classic","poem"]
 ---
 
 Now pleasing sleep had seal'd each mortal eye,  
-Stretch'd in the tents the Grecian leaders lie:  
+Stretch'd in the tents them Grecian leaders lie:  
 The immortals slumber'd on their thrones above;  
 All, but the ever-wakeful eyes of Jove.(76)  
 To honour Thetis' son he bends his care,  
