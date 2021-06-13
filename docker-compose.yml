@@ -1,7 +1,7 @@
 version: "3.5"
 services:
   build:
-   image: klakegg/hugo:0.83.1
+   image: klakegg/hugo:latest
    volumes:
      - ./config.toml:/src/config.toml
      - ./content:/src/content
@@ -10,7 +10,7 @@ services:
      - ./themes:/src/themes
 
   server:
-    image: klakegg/hugo:0.83.1
+    image: klakegg/hugo:latest
     command: server
     volumes:
       - ./config.toml:/src/config.toml
