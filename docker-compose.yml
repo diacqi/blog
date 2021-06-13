@@ -1,0 +1,22 @@
+version: "3.5"
+services:
+  build:
+   image: klakegg/hugo:0.83.1
+   volumes:
+     - ./config.toml:/src/config.toml
+     - ./content:/src/content
+     - ./resources:/src/resources
+     - ./static:/src/static
+     - ./themes:/src/themes
+
+  server:
+    image: klakegg/hugo:0.83.1
+    command: server
+    volumes:
+      - ./config.toml:/src/config.toml
+      - ./content:/src/content
+      - ./resources:/src/resources
+      - ./static:/src/static
+      - ./themes:/src/themes
+    ports:
+      - 1313:1313
