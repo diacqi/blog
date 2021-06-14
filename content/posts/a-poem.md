@@ -1,7 +1,7 @@
 ---
 title: "Pride, Our Undoing"
 date: 2021-06-14
-showDate: true
+showDate: false
 draft: false
 tags: ["poem"]
 ---

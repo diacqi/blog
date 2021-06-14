@@ -1,7 +1,7 @@
 ---
 title: "Video post"
 date: 2018-03-16T20:18:53-05:00
-showDate: true
+showDate: false
 draft: false
 tags: ["blog"]
 ---

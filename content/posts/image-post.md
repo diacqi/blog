@@ -1,7 +1,7 @@
 ---
 title: "**Image** post"
 date: 2018-02-19T12:41:46-05:00
-showDate: true
+showDate: false
 tags: ["blog","story"]
 images:
     - /posts/ideas.png

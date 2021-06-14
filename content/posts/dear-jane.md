@@ -1,7 +1,7 @@
 ---
 title: "The Alchemist"
 date: 2021-06-14
-showDate: true
+showDate: false
 draft: false
 tags: ["an excerpt"]
 ---
