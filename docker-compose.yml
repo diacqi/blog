@@ -11,7 +11,7 @@ services:
 
   server:
     image: klakegg/hugo:ext-nodejs
-    command: server
+    command: server --navigateToChanged
     volumes:
       - ./config.toml:/src/config.toml
       - ./content:/src/content
