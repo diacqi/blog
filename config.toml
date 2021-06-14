@@ -13,7 +13,7 @@ pygmentsCodefences       = true
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
     favicon              = "sam.ico"
     homepage             = "main"                           # What to call the home page link, link will not be rendered if empty
-    footerText           = "...."
+    footerText           = "..."
 
 # Metadata for Open Graph and Twitter
     description          = "A new Hugo site."               # Max 160 characters show in search results
@@ -37,12 +37,8 @@ pygmentsCodefences       = true
     text = "gallery"
 
 [[params.mainMenu]]
-    link = "portfolio"
-    text = "portfolio"
-
-[[params.mainMenu]]
     link = "about"
-    text = "who is nik?"
+    text = "who is nikhil?"
 
 [imaging]
     quality = 75
