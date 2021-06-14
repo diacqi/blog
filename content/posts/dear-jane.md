@@ -1,38 +1,14 @@
 ---
-title: "Dear Jane, regarding Mr. Bennet"
-date: 2018-02-11T12:34:41-05:00
+title: "The Alchemist"
+date: 2021-06-14
 showDate: true
 draft: false
-tags: ["classic","story"]
+tags: ["an excerpt"]
 ---
-# Chapter One
+"The boy continued to listen to his heart as they crossed the desert. He came to understand its dodges and tricks, and to accept it as it was. He lost his fear, and forgot about his need to go back to the oasis, because, one afternoon, his heart told him that it was happy. 'Even though I complain sometimes,' it said, 'it's because I'm the heart of a person and people's hearts are that way. People are afraid to pursue their most important dreams, because they feel that they don't deserve them, or that they'll be unable to achieve them. We, their hearts, become fearful just thinking of loved ones who go away forever, or of the moments that could have been good but weren't, or of treasures that might have been found but were forever hidden in the sands. Because, when these things happen, we suffer terribly.'
 
-It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.
+" 'My heart is afraid that it will have to suffer,' the boy told the alchemist one night as they looked up at the moonless sky.
 
-However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered the rightful property of some one or other of their daughters.
+" 'Tell your heart that the fear of suffering is worse than the suffering itself. And that no heart has ever suffered when it goes in search of its dreams, because every second of the search is a second's encounter with God and with eternity.'
 
-## Chapter Two
-
-“My dear Mr. Bennet,” said his lady to him one day, “have you heard that Netherfield Park is let at last?”
-
-Mr. Bennet replied that he had not.
-
-“But it is,” returned she; “for Mrs. Long has just been here, and she told me all about it.”
-
-Mr. Bennet made no answer.
-
-“Do you not want to know who has taken it?” cried his wife impatiently.
-
-“_You_ want to tell me, and I have no objection to hearing it.”
-
-This was invitation enough.
-
-### Chapter Three
-
-“Why, my dear, you must know, Mrs. Long says that Netherfield is taken by a young man of large fortune from the north of England; that he came down on Monday in a chaise and four to see the place, and was so much delighted with it, that he agreed with Mr. Morris immediately; that he is to take possession before Michaelmas, and some of his servants are to be in the house by the end of next week.”
-
-“What is his name?”
-
-“Bingley.”
-
-“Is he married or single?”
+" 'Every second of the search is an encounter with God,' the boy told his heart. 'When I have been truly searching for my treasure, every day has been luminous, because I've known that every hour was part of the dream that I would find it. When I have been truly searching for my treasure, I've discovered things along the way that I never would have seen had I not had the courage to try things that seemed impossible for a shepherd to achieve.' "
