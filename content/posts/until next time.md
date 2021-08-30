@@ -14,7 +14,7 @@ Here's to the times you never gave up on me
 
 I couldn't be happier that you are going far in life\
 But I just wish it wasn't so soon\
-You picked me up when i fell\
+You picked me up when I fell\
 You always lent a shoulder to cry on\
 Here's to the times you always had my back
  
