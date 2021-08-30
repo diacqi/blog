@@ -18,7 +18,7 @@ You picked me up when i fell\
 You always lent a shoulder to cry on\
 Here's to the times you always had my back
  
-That meaningful look, that last moment of eye contact\ 
+That meaningful look, that last moment of eye contact\
 The seconds that our eyes stayed put, I'll never forget\
 It felt like we had a thousand words to say\
 And it was all encompassed in one gaze\
