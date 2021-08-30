@@ -1,5 +1,5 @@
 ---
-title: "last resort"
+title: "Last resort"
 date: 2021-08-29
 showDate: false
 draft: false
